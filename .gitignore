@@ -40,4 +40,5 @@ build/
 ./freelancer4u-frontend/src/auth.config.js
 
 # ignore data base connection 
-src/main/resources/application.properties
+# src/main/resources/application.local.properties
+src/main/resources/application.local.properties
